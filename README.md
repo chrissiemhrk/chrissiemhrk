@@ -17,3 +17,4 @@ Here are some ideas to get you started:
  ![counter](https://en8z5fek5gu5grl.m.pipedream.net)
 -->
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrissiemhrk)
