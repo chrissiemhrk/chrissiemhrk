@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- ![counter](https://en8z5fek5gu5grl.m.pipedream.net)
+
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrissiemhrk)
 -->
 
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=chrissiemhrk.visitor-badge">
+ ![counter](https://en8z5fek5gu5grl.m.pipedream.net)
 <p/>
