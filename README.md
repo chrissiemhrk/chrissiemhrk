@@ -2,7 +2,6 @@
 
 I'm a front-end web developer learning about ui design online and working towards my bachelor's in Software Engineering.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrissiemhrk)
 
 ![counter](https://en8z5fek5gu5grl.m.pipedream.net)
 
@@ -22,6 +21,7 @@ Here are some ideas to get you started:
 
 
  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrissiemhrk)
 -->
 
 
