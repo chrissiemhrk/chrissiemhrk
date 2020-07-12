@@ -3,11 +3,11 @@
 I'm a front-end web developer learning about ui design online and working towards my bachelor's in Software Engineering.
 
 
-![counter](https://en8z5fek5gu5grl.m.pipedream.net)
+
 
 <!--
 **chrissiemhrk/chrissiemhrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![counter](https://en8z5fek5gu5grl.m.pipedream.net)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
