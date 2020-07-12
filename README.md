@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align='center'>
+
  ![counter](https://en8z5fek5gu5grl.m.pipedream.net)
-<p/>
+
