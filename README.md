@@ -1,6 +1,6 @@
 
 
-Hi, I'm Chrissie. I'm a front-end web developer from Kigali currently working at <a href="http://www.takit.rw">Takit</a>, learning about UX/UI design online and working towards my bachelor's in Software Engineering.
+Hi, I'm Chrissie. I'm a front-end web developer from Kigali currently working at <a href="http://www.github.com/takitrw">Takit</a>, learning about UX/UI design online and working towards my bachelor's in Software Engineering.
 
 🌱 I’m currently learning Vuejs and UX/UI design
 
