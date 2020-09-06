@@ -6,7 +6,9 @@
 
 🔭 My tech stack of choice is HTML5, CSS3, Sass, Javascript, and Reactjs but I'm also trying to diversify my toolbox so I'm learning Vuejs and Typescript.
 
-📫 If you have any question or just want to chat, you can reach me on <a href="http://www.twitter.com/chrissiemhrk">Twitter</a> or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>
+🚀 You can find me on  [Dev](https://www.dev.to/chrissiemhrk) where I post my writings about front-end development, UX/UI design, and beginners tutorials.
+
+📫 If you have any question or just want to chat, you can reach me on [Twitter](http://www.twitter.com/chrissiemhrk), or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
 
 
 <!--
