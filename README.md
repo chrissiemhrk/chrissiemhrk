@@ -1,10 +1,19 @@
+# Hi, I'm Chrissie.  
+
+🌱 I'm a front-end web developer from Kigali currently working at <a href="http://www.github.com/takitrw">Takit</a>
+
+🎓 I'm working towards my bachelor's in Software Engineering, learning UX/UI design online through blogs, courses, and youtube videos. 
+
+🔭 My tech stack of choice is HTML5, CSS3, Sass, Javascript, and Reactjs but I'm also trying to diversify my toolbox so I'm learning Vuejs and Typescript.
+
+📫 If you have any question or just want to chat, you can reach me on <a href="http://www.twitter.com/chrissiemhrk">Twitter</a> or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>
 
 
-Hi, I'm Chrissie. I'm a front-end web developer from Kigali currently working at <a href="http://www.github.com/takitrw">Takit</a>, learning about UX/UI design online and working towards my bachelor's in Software Engineering.
+<!--
 
-🌱 I’m currently learning Vuejs and UX/UI design
-
-📫 How to reach me? If you have any question or just want to chat, you can reach me on <a href="http://www.twitter.com/chrissiemhrk">Twitter</a> or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>
+**chrissiemhrk/chrissiemhrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![counter](https://en8z5fek5gu5grl.m.pipedream.net)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrissiemhrk)
 
 **Languages and tools**
 
@@ -25,12 +34,6 @@ Hi, I'm Chrissie. I'm a front-end web developer from Kigali currently working at
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissiemhrk&layout=compact" />
 </a>
 
-
-<!--
-**chrissiemhrk/chrissiemhrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![counter](https://en8z5fek5gu5grl.m.pipedream.net)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrissiemhrk)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -40,11 +43,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
- 
-
+- ⚡ Fun fact: ... 
 -->
 
 
