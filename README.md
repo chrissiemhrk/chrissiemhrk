@@ -4,7 +4,7 @@
 
 🎓 I'm working towards my bachelor's in Software Engineering, learning UX/UI design online through blogs, courses, and youtube videos. 
 
-🔭 My tech stack of choice is HTML5, CSS3, Sass, Javascript, and Reactjs. I'm also trying to diversify my toolbox so I'm learning Vuejs and Typescript.
+🔭 My tech stack of choice is HTML5, CSS3, Sass, Javascript, and Reactjs. I'm also trying to diversify my toolbox so I'm learning Vuejs and Ruby.
 
 🚀 You can find me on  [Dev](https://www.dev.to/chrissiemhrk) where I post about front-end development, UX/UI design, and beginners tutorials.
 
