@@ -6,7 +6,17 @@ Currently, I'm part of an incredible team at Hacksplash and learning user interf
 
 I love writing and have published articles online on [Dev](https://www.dev.to/chrissiemhrk), [CodeNewbie](https://community.codenewbie.org/chrissiemhrk) and [my website](https://chrissie.netlify.app/). Apart from that I also enjoy reading both non-fiction and fiction,watching crime dramas and anime, and evening walks.
 
-📫 If you have any question or just want to chat, you can reach me on [Twitter](http://www.twitter.com/chrissiemhrk), or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
+If you have any question or just want to chat, you can reach me on [Twitter](http://www.twitter.com/chrissiemhrk), or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
+
+**Languages and tools**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 <!--
