@@ -1,12 +1,10 @@
-# Hi, I'm Chrissie.  
+# Hi, I'm Chrissie.
 
-🌱 I'm a front-end web developer from Kigali currently working at <a href="http://www.github.com/takitrw">Takit</a>
+ I'm a front-end web developer from Kigali, Rwanda.
 
-🎓 I'm working towards my bachelor's in Software Engineering. 
+Currently, I'm part of an incredible team at Hacksplash and learning user interface design. In addition, I'm the co-lead of the Google developer student club (DSC) chapter of my university and working towards a bachelor in software engineering. 
 
-🔭 My tech stack of choice is HTML5, CSS3, Sass, Javascript, and Vuejs. I'm also trying to diversify my toolbox so I'm learning UX/UI design and Ruby.
-
-🚀 You can find me on  [Dev](https://www.dev.to/chrissiemhrk) where I post about front-end development.
+I love writing and have published articles online on [Dev](https://www.dev.to/chrissiemhrk), [CodeNewbie](https://community.codenewbie.org/chrissiemhrk) and [my website](https://chrissie.netlify.app/). Apart from that I also enjoy reading both non-fiction and fiction,watching crime dramas and anime, and evening walks.
 
 📫 If you have any question or just want to chat, you can reach me on [Twitter](http://www.twitter.com/chrissiemhrk), or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
 
