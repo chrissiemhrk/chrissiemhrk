@@ -2,9 +2,9 @@
 
  I'm a front-end web developer from Kigali, Rwanda.
 
-Currently, I'm part of an incredible team at Hacksplash and learning user interface design. In addition, I'm the co-lead of the Google developer student club (DSC) chapter of my university and working towards a bachelor in software engineering. 
+Currently, I'm the co-lead of the Google developer student club (DSC) chapter of my university, working towards a bachelor in software engineering, and learning user interface design. 
 
-I love writing and have published articles online on [Dev](https://www.dev.to/chrissiemhrk), [CodeNewbie](https://community.codenewbie.org/chrissiemhrk) and [my website](https://chrissie.netlify.app/). Apart from that I also enjoy reading both non-fiction and fiction,watching crime dramas and anime, and evening walks.
+I love writing and have published articles online on [Dev](https://www.dev.to/chrissiemhrk), [CodeNewbie](https://community.codenewbie.org/chrissiemhrk) and [my website](https://chrissie.netlify.app/). Apart from that I also enjoy reading both non-fiction and fiction, watching crime dramas and anime, and evening walks.
 
 If you have any question or just want to chat, you can reach me on [Twitter](http://www.twitter.com/chrissiemhrk) or <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
 
