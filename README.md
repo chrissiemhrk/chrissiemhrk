@@ -2,7 +2,8 @@
 
 By day, you can find me writing for my blog, coming up with new designs on Figma, or programming with either ReactJS or VueJS.
 
-By night, I’m typically spending time with my family, watching YouTube videos or reading books. You can reach out on Twitter @chrissiemhrk or via email: chrissiemhrk@gmail.com. 
+By night, I’m typically spending time with my family, watching YouTube videos or reading books. You can reach out on [Twitter](http://www.twitter.com/chrissiemhrk) or via email: <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
+
 **Languages and tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
