@@ -1,4 +1,4 @@
-👋 Hi, I’m Chrissie — Frontend Developer based in Kigali who is passionate about building innovative products with JavaScript. You can reach out on [Twitter](http://www.twitter.com/chrissiemhrk) or via email: <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
+👋 Hi, I’m Chrissie — a Frontend Developer based in Kigali who is passionate about building innovative products with JavaScript. You can reach out on [Twitter](http://www.twitter.com/chrissiemhrk) or via email: <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
 
 **Languages and tools**
 
