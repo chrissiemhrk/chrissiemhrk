@@ -11,8 +11,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrissiemhrk&theme=nord_dark)
 <!--
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chrissie.
 
@@ -42,4 +40,5 @@ If you have any question or just want to chat, you can reach me on [Twitter](htt
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissiemhrk&layout=compact" />
 </a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrissiemhrk&theme=nord_dark)
  -->
