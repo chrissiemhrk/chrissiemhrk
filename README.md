@@ -1,4 +1,4 @@
-👋 Hi, I’m Chrissie — a Frontend Engineer based in Kigali who is passionate about building innovative products with JavaScript and TypeScript. You can reach out via email: <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
+👋 Hi, I’m Chrissie — a Frontend Engineer based in Kigali who is passionate about building innovative products. You can reach out via email: <a href="mailto:chrissiemhrk@hmail.com">chrissiemhrk@gmail.com</a>. 
 
 <!--
 
